@@ -1,0 +1,25 @@
+{
+  "espacios": [
+    {
+      "id": 1,
+      "estacionamiento": "No lo se",
+      "piso": "5",
+      "numero": "00234",
+      "estado": "disponible"
+    },
+    {
+      "id": 2,
+      "estacionamiento": "adkb",
+      "piso": "5",
+      "numero": "555",
+      "estado": "libre"
+    },
+    {
+      "id": 3,
+      "estacionamiento": "asd",
+      "piso": "sad",
+      "numero": "55",
+      "estado": "libre"
+    }
+  ]
+}
