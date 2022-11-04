@@ -9,7 +9,7 @@ import { MatTableDataSource } from '@angular/material/table';
   styleUrls: ['./list-espacios.component.css']
 })
 export class ListEspaciosComponent implements OnInit {
-  displayedColumns: string[] = ['id', 'estacionamiento', 'piso', 'numero', 'estado', 'actions'];
+  displayedColumns: string[] = ['id', 'estacionamiento', 'piso', 'numero', 'estado'];
   dataSource = new MatTableDataSource<Espacios>();
 
   constructor(private espaciosService: EspaciosService) { }
