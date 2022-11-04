@@ -2,24 +2,17 @@
   "espacios": [
     {
       "id": 1,
-      "estacionamiento": "No lo se",
-      "piso": "5",
-      "numero": "00234",
+      "estacionamiento": "San Borja",
+      "piso": "1",
+      "numero": "34-A",
+      "estado": "Ocupado"
+    },
+    {
+      "id": 1,
+      "estacionamiento": "San Miguel",
+      "piso": "2",
+      "numero": "35-B",
       "estado": "disponible"
-    },
-    {
-      "id": 2,
-      "estacionamiento": "adkb",
-      "piso": "5",
-      "numero": "555",
-      "estado": "libre"
-    },
-    {
-      "id": 3,
-      "estacionamiento": "asd",
-      "piso": "sad",
-      "numero": "55",
-      "estado": "libre"
     }
   ]
 }
